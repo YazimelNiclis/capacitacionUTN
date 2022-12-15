@@ -1,0 +1,25 @@
+.nav {
+  background-color: lightskyblue;
+  width: 800px;
+  min-height: 600px;
+  display: flex;
+  justify-content: center;
+  color: black;
+  margin: 3% auto;
+}
+
+.nav-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 5% auto;
+  list-style: none;
+}
+
+.nav-item {
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

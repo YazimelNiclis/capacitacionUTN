@@ -1,0 +1,11 @@
+.modalForm {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: whitesmoke;
+  border-radius: 10px;
+}
+
+label {
+  opacity: unset;
+}
